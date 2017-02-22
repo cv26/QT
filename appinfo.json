@@ -1,0 +1,29 @@
+{
+
+    "deployment": {
+        "android": {
+        },
+        "ios": {
+            "codeSignIdentity": ""
+        },
+        "macos": {
+            "codeSignIdentity": ""
+        },
+        "winphone": {
+            "packageDisplayName": ""
+        }
+    },
+    "mainFile": "HelloWorld.qml",
+    "projectFile": "HelloWorld.qmlproject",
+    "properties": {
+        "basemapServiceUrl": "http://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+        "titleBackgroundColor": "#00b2ff",
+        "titleTextColor": "#fefdfd"
+    },
+    "type": "app",
+    "urlScheme": null,
+    "version": {
+        "major": 1,
+        "micro": 1
+    }
+}
